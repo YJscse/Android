@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyLeaderBoard</string>
+
+    <string name="app_id">875169135082</string>
+    <string name="package_name">odd.study.com.myleaderboard</string>
+    <string name="achievement_one">CgkI6vOUobwZEAIQAQ</string>
+    <string name="achievement_step">CgkI6vOUobwZEAIQAg</string>
+    <string name="leaderboard_point">CgkI6vOUobwZEAIQAw</string>
+    <string name="leaderboard_time">CgkI6vOUobwZEAIQBA</string>
+</resources>
